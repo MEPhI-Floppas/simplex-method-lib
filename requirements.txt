@@ -1,3 +1,4 @@
 sympy~=1.11.1
 numpy
 ipython~=8.5.0
+jupyter
